@@ -1,0 +1,17 @@
+c:\users\pedro henrique\documents\visual studio 2010\Projects\GeradorInsertSQL\GeradorInsertSQL\bin\Debug\GeradorInsertSQL.exe
+c:\users\pedro henrique\documents\visual studio 2010\Projects\GeradorInsertSQL\GeradorInsertSQL\bin\Debug\GeradorInsertSQL.pdb
+c:\users\pedro henrique\documents\visual studio 2010\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.Properties.Resources.resources
+c:\users\pedro henrique\documents\visual studio 2010\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.csproj.GenerateResource.Cache
+c:\users\pedro henrique\documents\visual studio 2010\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.exe
+c:\users\pedro henrique\documents\visual studio 2010\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.pdb
+c:\users\pedro henrique\documents\visual studio 2010\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.Form1.resources
+C:\Users\Pedro Henrique\Documents\Visual Studio 2010\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\bin\Debug\GeradorInsertSQL.exe
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\bin\Debug\GeradorInsertSQL.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.exe
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\bin\Debug\GeradorInsertSQL.exe.config
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Debug\GeradorInsertSQL.csprojResolveAssemblyReference.cache

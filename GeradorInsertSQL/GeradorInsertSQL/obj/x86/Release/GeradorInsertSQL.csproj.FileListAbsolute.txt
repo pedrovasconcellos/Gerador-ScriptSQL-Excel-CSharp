@@ -1,0 +1,8 @@
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\bin\Release\GeradorInsertSQL.exe.config
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\bin\Release\GeradorInsertSQL.exe
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\bin\Release\GeradorInsertSQL.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Release\GeradorInsertSQL.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Release\GeradorInsertSQL.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Release\GeradorInsertSQL.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Release\GeradorInsertSQL.exe
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\GeradorInsertSQL\GeradorInsertSQL\obj\x86\Release\GeradorInsertSQL.pdb
