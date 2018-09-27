@@ -1,1 +1,1 @@
-# Gerador-ScriptSQL-Excel-CSharp
+# Sql-Script-Generator-In-Excel
