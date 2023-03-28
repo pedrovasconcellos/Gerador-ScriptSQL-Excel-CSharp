@@ -1,1 +1,1 @@
-# Sql-Script-Generator-In-Excel
+Generate SQL insert from Excel
